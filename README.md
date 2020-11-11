@@ -8,7 +8,7 @@ symlinks to the actual files.
 - `compton`
 - `i3`
 - `neovim`
-- `polybar
+- `polybar`
 - `rofi`
 - `urxvt`
 - `wal`
