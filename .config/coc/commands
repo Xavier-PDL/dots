@@ -1,0 +1,4 @@
+clangd.install
+python.setLinter
+snippets.openSnippetFiles
+snippets.editSnippets

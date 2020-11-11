@@ -1,0 +1,269 @@
+polybar|info:  Loading config: /home/x/.config/polybar/config
+polybar|info:  Environment var reference ${MONITOR} found (value=DVI-D-0)
+polybar|info:  Loaded monitor DVI-D-0 (1920x1080+1600+0)
+polybar|info:  Environment var reference ${BAR_SEP} found (value= %{F#C43647}|%{F-} )
+polybar|info:  Found matching X resource "color0" (value=#0c0b1b)
+polybar|info:  Found matching X resource "color7" (value=#d1c7d5)
+polybar|info:  Bar geometry: 1920x24+1600+1056; Borders: 0,0,0,0
+polybar|warn:  pulseaudio: using default sink alsa_output.usb-Avid_Avid_Mbox_Mini-00.iec958-stereo
+polybar|info:  Found matching X resource "color4" (value=#36549B)
+polybar|info:  Found matching X resource "color7" (value=#d1cpolybar|info:  Found matching X resource "color4" (value=#36549B)
+polybar|info:  Found matching X resource "color4" (value=#36549B)
+polybar|info:  Found matching X resource "color0" (value=#0c0b1b)
+polybar|info:  Found matching X resource "color4" (value=#36549B)
+polybar|info:  Found matching X resource "color2" (value=#C43647)
+polybar|info:  Found matching X resource "color2" (value=#C43647)
+polybar|info:  Found matching X resource "color2" (value=#C43647)
+polybar|info:  Found matching X resource "color2" (value=#C43647)
+polybar|info:  Found matching X resource "color2" (value=#C43647)
+polybar|info:  Found matching X resource "color2" (value=#C43647)
+polybar|info:  Found matching X resource "color2" (value=#C43647)
+polybar|info:  Starting application
+polybar|info:  Starting module/pulseaudio
+polybar|info:  Starting module/i3
+polybar|info:  Starting module/filesystem
+polybar|info:  Starting module/temperature
+polybar|info:  Starting module/cpu
+polybar|info:  Starting module/memory
+polybar|info:  Starting module/date
+polybar|info:  Entering event loop (thread-id=1)
+polybar|info:  Eventqueue worker (thread-id=4)
+polybar|info:  Configured DPI = 96x96
+polybar|info:  Loaded font "Source\ Code\ Pro,Source\ Code\ Pro\ Medium:style=Medium,Regular:pixelsize=10" (name=Source Code Pro, offset=0, file=/home/x/.local/share/fonts/SourceCodePro-Medium.ttf)
+polybar|info:  Loaded font "FontAwesome:style=Regular:size=10" (name=FontAwesome, offset=0, file=/usr/share/fonts/opentype/font-awesome/FontAwesome.otf)
+polybar|info:  Loaded font "Icons:style=Regular:size=10" (name=Icons, offset=0, file=/home/x/.local/share/fonts/icons.ttf)
+polybar|info:  Loaded font "M+ 1m:style=regular:size=12" (name=mplus Nerd Font Mono, offset=0, file=/home/x/.local/share/fonts/NerdFonts/M+ 1m Nerd Font Complete Mono.ttf)
+polybar|info:  Bar window: 0x0c00002
+polybar|info:  Disabling tray manager (reason: missing `tray-position`)
+polybar|info:  module/pulseaudio: Rebuilding cache
+polybar|info:  module/i3: Rebuilding cache
+polybar|info:  module/filesystem: Rebuilding cache
+polybar|info:  module/temperature: Rebuilding cache
+polybar|info:  module/cpu: Rebuilding cache
+polybar|info:  module/memory: Rebuilding cache
+polybar|info:  module/date: Rebuilding cache
+polybar|info:  Redrawing bar window
+polybar|info:  module/cpu: Rebuilding cache
+polybar|info:  Redrawing bar window
+polybar|info:  module/temperature: Rebuilding cache
+polybar|info:  module/cpu: Rebuilding cache
+polybar|info:  module/date: Rebuilding cache
+polybar|info:  Redrawing bar window
+polybar|info:  module/cpu: Rebuilding cache
+polybar|info:  Redrawing bar window
+polybar|info:  module/temperature: Rebuilding cache
+polybar|info:  module/cpu: Rebuilding cache
+polybar|info:  module/memory: Rebuilding cache
+polybar|info:  module/date: Rebuilding cache
+polybar|info:  Redrawing bar window
+polybar|info:  module/cpu: Rebuilding cache
+polybar|info:  module/temperature: Rebuilding cache
+polybar|info:  module/cpu: Rebuilding cache
+polybar|info:  module/date: Rebuilding cache
+polybar|info:  Redrawing bar window
+polybar|info:  module/cpu: Rebuilding cache
+polybar|info:  Redrawing bar window
+polybar|info:  module/temperature: Rebuilding cache
+polybar|info:  module/cpu: Rebuilding cache
+polybar|info:  module/memory: Rebuilding cache
+polybar|info:  module/date: Rebuilding cache
+polybar|info:  Redrawing bar window
+polybar|info:  module/cpu: Rebuilding cache
+polybpolybar|info:  module/temperatupolybar|info:  module/temperature: Rebuilding cache
+polybar|info:  module/cpu: Rebuilding cache
+polybar|info:  module/date: Rebuilding cache
+polybpolybar|info:  module/cpu: Rebupolybar|info:  module/cpu: Rebuilding cache
+polybpolybar|info:  module/temperatupolybar|info:  module/temperature: Rebuilding cache
+polybar|info:  module/cpu: Rebuilding cache
+polybar|info:  module/memory: Rebuilding cache
+polybar|info:  module/date: Rebuilding cache
+polybpolybar|info:  module/cpu: Rebupolybar|info:  module/cpu: Rebuilding cache
+polybar|info:  module/temperature: Rebuilding cache
+polybar|info:  module/cpu: Rebuilding cache
+polybar|info:  module/date: Rebuilding cache
+polybar|info:  Redrawing bar window
+polybar|info:  module/cpu: Rebuilding cache
+polybar|info:  Redrawing bar window
+polybar|info:  module/temperature: Rebuilding cache
+polybar|info:  module/cpu: Rebuilding cache
+polybar|info:  module/memory: Rebuilding cache
+polybar|info:  module/date: Rebuilding cache
+polybar|info:  Redrawing bar window
+polybar|info:  module/cpu: Rebuilding cache
+polybar|info:  Redrawing bar window
+polybar|info:  module/temperature: Rebuilding cache
+polybar|info:  module/cpu: Rebuilding cache
+polybar|info:  module/date: Rebuilding cache
+polybar|info:  Redrawing bar window
+polybar|info:  module/cpu: Rebuilding cache
+polybar|info:  Redrawing bar window
+polybar|info:  module/temperature: Rebuilding cache
+polybar|info:  module/cpu: Rebuilding cache
+polybar|info:  module/memory: Rebuilding cache
+polybar|info:  module/date: Rebuilding cache
+polybar|info:  Redrawing bar window
+polybar|info:  module/cpu: Rebuilding cache
+polybar|info:  Redrawing bar window
+polybar|info:  module/temperature: Rebuilding cache
+polybar|info:  module/cpu: Rebuilding cache
+polybar|info:  module/date: Rebuilding cache
+polybar|info:  Redrawing bar window
+polybar|info:  module/cpu: Rebuilding cache
+polybar|info:  Redrawing bar window
+polybar|info:  module/temperature: Rebuilding cache
+polybar|info:  module/cpu: Rebuilding cache
+polybar|info:  module/memory: Rebuilding cache
+polybar|info:  module/date: Rebuilding cache
+polybar|info:  Redrawing bar window
+polybar|info:  module/cpu: Rebuilding cache
+polybar|info:  Redrawing bar window
+polybar|info:  module/temperature: Rebuilding cache
+polybar|info:  module/cpu: Rebuilding cache
+polybar|info:  module/date: Rebuilding cache
+polybar|info:  Redrawing bar window
+polybar|info:  module/cpu: Rebuilding cache
+polybar|info:  Redrawing bar window
+polybar|info:  module/temperature: Rebuilding cache
+polybar|info:  module/cpu: Rebuilding cache
+polybar|info:  module/memory: Rebuilding cache
+polybar|info:  module/date: Rebuilding cache
+polybar|info:  Redrawing bar window
+polybar|info:  module/cpu: Rebuilding cache
+polybar|info:  Redrawing bar window
+polybar|info:  module/temperature: Rebuilding cache
+polybar|info:  module/cpu: Rebuilding cache
+polybar|info:  module/date: Rebuilding cache
+polybar|info:  Redrawing bar window
+polybar|info:  module/cpu: Rebuilding cache
+polybpolybar|info:  module/temperatupolybar|info:  module/temperature: Rebuilding cache
+polybar|info:  module/cpu: Rebuilding cache
+polybar|info:  module/memory: Rebuilding cache
+polybar|info:  module/date: Rebuilding cache
+polybpolybar|info:  module/cpu: Rebupolybar|info:  module/cpu: Rebuilding cache
+polybpolybar|info:  module/temperatupolybar|info:  module/temperature: Rebuilding cache
+polybar|info:  module/cpu: Rebuilding cache
+polybar|info:  module/date: Rebuilding cache
+polybpolybar|info:  module/cpu: Rebupolybar|info:polybar|info:  module/temperature: Rebuilding cache
+polybar|info:  polybar|info:  module/temperature: Rebuilding cache
+polybar|info:  module/cpu: Rebuilding cache
+polybar|info:  module/memory: Rebuilding cache
+polybar|info: polybar|info:  module/cpu: Rebuilding cache
+polybar|info:  Redrawinpolybar|info:polybar|info:  module/temperature: Rebuilding cache
+polybar|info:  polybar|info:  module/temperature: Rebuilding cache
+polybar|info:  module/cpu: Rebuilding cache
+polybar|info: polybar|info:  module/cpu: Rebuilding cache
+polybar|info:  Redrawinpolybar|info:polybar|info:  module/temperatupolybar|info:  module/temperature: Rebuilding cache
+polybar|info:  module/cpu: Rebuilding cache
+polybar|info:  module/memory: Rebuilding cache
+polybar|info:  module/date: Rebuilding cache
+polybpolybar|info:  module/cpu: Rebupolybar|info:  module/cpu: Rebuilding cache
+polybpolybar|info:  module/temperatupolybar|info:  module/temperature: Rebuilding cache
+polybar|info:  module/cpu: Rebuilding cache
+polybar|info:  module/date: Rebuilding cache
+polybpolybar|info:  module/cpu: Rebupolybar|info:  module/cpu: Rebuilding cache
+polybpolybar|info:  module/temperatupolybar|info:  module/temperature: Rebuilding cache
+polybar|info:  module/cpu: Rebuilding cache
+polybar|info:  module/memory: Rebuilding cache
+polybar|info:  module/date: Rebuilding cache
+polybpolybar|info:  module/cpu: Rebupolybar|info:polybar|info:  module/temperatupolybar|info:  module/temperature: Rebuilding cache
+polybar|info:  module/cpu: Rebuilding cache
+polybar|info:  module/date: Rebuilding cache
+polybpolybar|info:  module/cpu: Rebupolybar|info:  module/cpu: Rebuilding cache
+polybpolybar|info:  module/temperatupolybar|info:  module/temperature: Rebuilding cache
+polybar|info:  module/cpu: Rebuilding cache
+polybar|info:  module/memory: Rebuilding cache
+polybar|info:  module/date: Rebuilding cache
+polybpolybar|info:  module/cpu: Rebupolybar|info:  module/cpu: Rebuilding cache
+polybpolybar|info:  module/filesystepolybar|info:  module/filesystem: Rebuilding cache
+polybar|info:  module/temperature: Rebuilding cache
+polybar|info:  module/cpu: Rebuilding cache
+polybar|info:  module/date: Rebuilding cache
+polybpolybar|info:  module/cpu: Rebupolybar|info:  module/cpu: Rebuilding cache
+polybpolybar|info:  module/temperatupolybar|info:  module/temperature: Rebuilding cache
+polybar|info:  module/cpu: Rebuilding cache
+polybar|info:  module/memory: Rebuilding cache
+polybar|info:  module/date: Rebuilding cache
+polybpolybar|info:  module/cpu: Rebupolybar|info:  module/cpu: Rebuilding cache
+polybpolybar|info:  module/temperatupolybar|info:  module/temperature: Rebuilding cache
+polybar|info:  module/cpu: Rebuilding cache
+polybar|info:  module/date: Rebuilding cache
+polybpolybar|info:  module/cpu: Rebupolybar|info:  module/cpu: Rebuilding cache
+polybpolybar|info:  module/temperatupolybar|info:  module/temperature: Rebuilding cache
+polybar|info:  module/cpu: Rebuilding cache
+polybar|info:  module/memory: Rebuilding cache
+polybar|info:  module/date: Rebuilding cache
+polybpolybar|info:  module/cpu: Rebupolybar|info:  module/cpu: Rebuilding cache
+polybpolybar|info:  module/temperatupolybar|info:  module/temperature: Rebuilding cache
+polybar|info:  module/cpu: Rebuilding cache
+polybar|info:  module/date: Rebuilding cache
+polybpolybar|info:  module/cpu: Rebupolybar|info:  module/cpu: Rebuilding cache
+polybpolybar|info:  module/temperatupolybar|info:  module/temperature: Rebuilding cache
+polybar|info:  module/cpu: Rebuilding cache
+polybar|info:  module/memory: Rebuilding cache
+polybar|info:  module/date: Rebuilding cache
+polybpolybar|info:  module/cpu: Rebupolybar|info:  module/cpu: Rebuilding cache
+polybpolybar|info:  module/temperatupolybar|info:  module/temperature: Rebuilding cache
+polybar|info:  module/cpu: Rebuilding cache
+polybar|info:  module/date: Rebuilding cache
+polybpolybar|info:  module/cpu: Rebupolybar|info:  module/cpu: Rebuilding cache
+polybpolybar|info:  module/temperatupolybar|info:  module/temperature: Rebuilding cache
+polybar|info:  module/cpu: Rebuilding cache
+polybar|info:  module/memory: Rebuilding cache
+polybar|info:  module/date: Rebuilding cache
+polybpolybar|info:  module/cpu: Rebupolybar|info:  module/cpu: Rebuilding cache
+polybpolybar|info:  module/temperatupolybar|info:  module/temperature: Rebuilding cache
+polybar|info:  module/cpu: Rebuilding cache
+polybar|info:  module/date: Rebuilding cache
+polybpolybar|info:  module/cpu: Rebupolybar|info:  module/cpu: Rebuilding cache
+polybpolybar|info:  module/temperatupolybar|info:  module/temperature: Rebuilding cache
+polybar|info:  module/cpu: Rebuilding cache
+polybar|info:  module/memory: Rebuilding cache
+polybar|info:  module/date: Rebuilding cache
+polybpolybar|info:  module/cpu: Rebupolybar|info:  module/cpu: Rebuilding cache
+polybpolybar|info:  module/temperatupolybar|info:  module/temperature: Rebuilding cache
+polybar|info:  module/cpu: Rebuilding cache
+polybar|info:  module/date: Rebuilding cache
+polybpolybar|info:  module/cpu: Rebupolybar|info:  module/cpu: Rebuilding cache
+polybpolybar|info:  module/temperatupolybar|info:  module/temperature: Rebuilding cache
+polybar|info:  module/cpu: Rebuilding cache
+polybar|info:  module/memory: Rebuilding cache
+polybar|info:  module/date: Rebuilding cache
+polybpolybar|info:  module/cpu: Rebupolybar|info:  module/cpu: Rebuilding cache
+polybpolybar|info:  module/temperatupolybar|info:  module/temperature: Rebuilding cache
+polybar|info:  module/cpu: Rebuilding cache
+polybar|info:  module/date: Rebuilding cache
+polybpolybar|info:  module/cpu: Rebupolybar|info:polybar|info:  module/temperatupolybar|info:  module/temperature: Rebuilding cache
+polybar|info:  module/cpu: Rebuilding cache
+polybar|info:  module/memory: Rebuilding cache
+polybar|info:  module/date: Rebuilding cache
+polybpolybar|info:  module/cpu: Rebupolybar|info:  module/cpu: Rebuilding cache
+polybpolybar|info:  module/temperatupolybar|info:  module/temperature: Rebuilding cache
+polybar|info:  module/cpu: Rebuilding cache
+polybar|info:  module/date: Rebuilding cache
+polybpolybar|info:  module/cpu: Rebupolybar|info:  module/cpu: Rebuilding cache
+polybpolybar|info:  module/temperatupolybar|info:  module/temperature: Rebuilding cache
+polybar|info:  module/cpu: Rebuilding cache
+polybar|info:  module/memory: Rebuilding cache
+polybar|info:  module/date: Rebuilding cache
+polybpolybar|info:  module/cpu: Rebupolybar|info:  module/cpu: Rebuilding cache
+polybpolybar|warn:  Termination signal received, shutting down...
+polybar|info:  module/pulseaudio: Stopping
+polybar|info:  Deconstruction of module/pulseaudio took 0 ms.
+polybar|info:  module/i3: Disconnecting from socket
+polybar|info:  module/i3: Stopping
+polybar|warn:  module/i3: Attempting to reconnect socket (reason: Unexpected EOF while reading header)
+polybar|info:  module/i3: Reconnecting socket succeeded
+polybar|info:  Deconstruction of module/i3 took 0 ms.
+polybar|info:  module/filesystem: Stopping
+polybar|info:  Deconstruction of module/filesystem took 0 ms.
+polybar|info:  module/temperature: Stopping
+polybar|info:  Deconstruction of module/temperature took 0 ms.
+polybar|info:  module/cpu: Stopping
+polybar|info:  Deconstruction of module/cpu took 0 ms.
+polybar|info:  module/memory: Stopping
+polybar|info:  Deconstruction of module/memory took 0 ms.
+polybar|info:  module/date: Stopping
+polybar|info:  Deconstruction of module/date took 0 ms.
+polybar|info:  Waiting for spawned processes to end
+polybar|info:  Reached end of application...
+ Reached end of application...

@@ -1,0 +1,20 @@
+\documentclass[12pt]{report}
+\usepackage[margin=0.8in]{geometry}
+\usepackage{titlesec}
+\usepackage{mathrsfs}
+\usepackage[mathcal]{euscript}
+\usepackage{mathtools}
+\usepackage[skip=10pt]{parskip}
+\usepackage{enumitem}
+\setlist{itemsep=-1em}
+
+\titleformat{\chapter}[display]
+   {\normalfont\huge\bfseries}{\chaptertitlename\ \thechapter}{0pt}{\Huge}
+\titlespacing*{\chapter}{0pt}{0pt}{0pt}
+
+\begin{document}
+\setcounter{chapter}{0}
+
+
+\end{document}
+

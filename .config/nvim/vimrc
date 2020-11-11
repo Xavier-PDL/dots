@@ -1,0 +1,19 @@
+" Keep it clean m8.
+
+let mapleader=" "
+source ~/.config/nvim/plugs.vim
+source ~/.config/nvim/options.vim
+source ~/.config/nvim/remaps.vim
+source ~/.config/nvim/commands.vim
+source ~/.config/nvim/colors.vim
+
+source ~/.config/nvim/airline.vim
+source ~/.config/nvim/vimwiki.vim
+source ~/.config/nvim/fzf.vim
+source ~/.config/nvim/nerdtree.vim
+source ~/.config/nvim/curtineincsw.vim
+source ~/.config/nvim/vimspector.vim
+source ~/.config/nvim/coc.vim
+source ~/.config/nvim/ycm.vim
+source ~/.config/nvim/ultisnips.vim
+

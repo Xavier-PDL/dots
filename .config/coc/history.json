@@ -1,0 +1,19 @@
+{
+  "lists": {
+    "%2Fhome%2Fx%2Fdev%2Fpy%2Fpypg": [
+      "ex"
+    ]
+  },
+  "extensions": {
+    "%2Fhome%2Fx%2Fdev%2Fpy%2Fpypg": [
+      "1",
+      "python",
+      "CocHel?"
+    ]
+  },
+  "diagnostics": {
+    "%2Fhome%2Fx": [
+      " "
+    ]
+  }
+}
